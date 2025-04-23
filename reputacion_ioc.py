@@ -9,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 """# Definicion de constantes"""
 
-API_KEY = "74e84d0144844470390436dd58be2a2737fb10729bfd353d0c1ca97a46b3256b"  # Reemplaza con tu API key
+API_KEY = "API KEY"  # Reemplaza con tu API key
 INPUT_FILE = "indicadores.txt"  # Archivo con los IOCs a analizar
 OUTPUT_FILE = "resultados_iocs.xlsx"  # Archivo de salida con los resultados
 MAX_THREADS = 5  # Número máximo de hilos para procesamiento paralelo
